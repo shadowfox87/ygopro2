@@ -1,0 +1,63 @@
+flatType=1
+
+totalSize.width=250
+totalSize.height=80
+
+playerNameLable.x=205
+playerNameLable.y=14.6
+playerNameLable.width=400
+playerNameLable.height=22
+playerNameLable.color=FFFFFFFF
+playerNameLable.alignment=2
+//0 means Center
+//1 means Left
+//2 means Right
+playerNameLable.effect=1
+//0 means None
+//1 means Shadow
+//2 means Outline
+
+healthLable.x=153.1
+healthLable.y=41.8
+healthLable.width=300
+healthLable.height=44
+healthLable.color=FFFFFFFF
+healthLable.alignment=2
+//0 means Center
+//1 means Left
+//2 means Right
+healthLable.effect=2
+//0 means None
+//1 means Shadow
+//2 means Outline
+
+timeLable.x=153.2
+timeLable.y=67.8
+timeLable.width=300
+timeLable.height=24
+timeLable.color=CCCCCCCC
+timeLable.alignment=2
+//0 means Center
+//1 means Left
+//2 means Right
+timeLable.effect=2
+//0 means None
+//1 means Shadow
+//2 means Outline
+
+health.x=-300
+health.y=0
+health.width=1
+health.height=1
+
+time.x=-300
+time.y=0
+time.width=1
+time.height=1
+
+face.x=-300
+face.y=0
+face.size=1
+face.type=1
+//0 means Circle
+//1 means Square
