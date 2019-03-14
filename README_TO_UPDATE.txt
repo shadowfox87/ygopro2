@@ -1,5 +1,5 @@
-Run YgoProPatcher.exe
-Point YgoProPatcher to the directory with YGOPro2.exe
-Press "Update YGOPro2"
+Run YGOPro2.exe
+The client auto-updates card databases (cdbs) and banlist.
+The pictures are downloaded when they have to displayed for the first time.
 
-DONE!
+ENJOY!
